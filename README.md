@@ -29,5 +29,5 @@ The model is implemented based on the queueing system assumptions introduced in 
 - The `run_simulation.py` is the helper function for running the simulation model. 
 - The `result.ipynb` contains the steady-state performance parameters of FCFS and SPT system in M/M/1 and M/D/1, which are computed after 10000 entities are served and 60000 time unit is elapsed. 
 
-## Reference:
+## References:
 Law, A.M.: Simulation Modeling and Analysis, 5th edition. McGraw-Hill, Boston.(2015)
